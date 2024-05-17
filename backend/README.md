@@ -7,4 +7,4 @@
 # 6. cd ..
 # 7. npm start
 # application up at locahost:3001 with base api url: http://localhost:3001/api/trades
-# npm test
+# 8. npm test
